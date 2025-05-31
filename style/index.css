@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+.sub3 {
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+.card {
+    margin: auto;
+}
+
+.cardsProducts {
+    margin-top: 50px;
+    align-items: center;
+    width: 30rem;
+}
+
+.card-title {
+    margin-top: 70px;
+}
+
+.card-img-top{
+    margin-top: 30px;
+}
+
+.col-sm{
+    margin: auto;
+}
